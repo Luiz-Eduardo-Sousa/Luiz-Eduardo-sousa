@@ -15,7 +15,7 @@
   
   ##
  
-  ![Snake animation](https://github.com/Luiz-Eduardo-sousa/Luiz-Eduardo-sousa/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Luiz-Eduardo-sousa/Luiz-Eduardo-Sousa/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
