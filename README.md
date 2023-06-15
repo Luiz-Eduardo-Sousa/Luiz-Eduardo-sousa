@@ -13,7 +13,7 @@
 
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-Eduardo-Sousa&show_icons=true&theme=dracula)
 
-  
+  ### VOCÊ PODE ME CONTATAR ATRAVÉS DO 
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eu_oluizeduardo)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/554196037518)
   
