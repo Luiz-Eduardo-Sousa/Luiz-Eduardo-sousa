@@ -11,8 +11,8 @@
 
   <br/>
 
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-Eduardo-Sousa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Eduardo-Sousa&layout=compact)
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-Eduardo-Sousa&show_icons=true&theme=tokyonight)
+
 
 
   ### VOCÊ PODE ME CONTATAR ATRAVÉS DO 
