@@ -15,7 +15,8 @@
   <br/>
 
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-Eduardo-Sousa&show_icons=true&theme=synthwave)
-
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Eduardo-Sousa&hide_progress=true)
 
 
   ### You can talk to me for 
