@@ -14,13 +14,13 @@
 
   <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luiz-Eduardo-Sousa&show_icons=true&theme=synthwave" alt="Luiz's GitHub stats"/>
-</div>
+  ## Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luiz-Eduardo-Sousa&show_icons=true&theme=synthwave" alt="Luiz's GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Eduardo-Sousa&layout=compact" alt="Top Langs"/>
 </div>
+
 
 ### You can talk to me for 
 
