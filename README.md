@@ -17,8 +17,8 @@
   ## Stats
 
 <div align="center" style="display: flex; justify-content: center;">
-  <img style="width: 500px;" src="https://github-readme-stats.vercel.app/api?username=Luiz-Eduardo-Sousa&show_icons=true&theme=synthwave" alt="Luiz's GitHub stats"/>
-  <img style="width: 380px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Eduardo-Sousa&layout=compact&theme=synthwave" alt="Top Langs"/>
+  <img style="width: 369px;" src="https://github-readme-stats.vercel.app/api?username=Luiz-Eduardo-Sousa&show_icons=true&theme=synthwave" alt="Luiz's GitHub stats"/>
+  <img style="width: 280px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Eduardo-Sousa&layout=compact&theme=synthwave" alt="Top Langs"/>
 </div>
 
 
