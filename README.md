@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=linux,js,ts,vue,react,vuetify,tailwind,nodejs,git,nuxt,laravel,php" />
+<img src="https://skillicons.dev/icons?i=linux,js,ts,nodejs,vue,nuxt,vuetify,tailwind,git,php,laravel," />
 </div>
 
 ###
